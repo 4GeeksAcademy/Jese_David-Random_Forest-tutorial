@@ -14,7 +14,7 @@
 	"duration" : 2,
 	"autoPlay": "false",
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
-    "projectType": "project",
+  "projectType": "project",
 	"description" : {
 		"us":"Use the decision tree algorithm to diagnose diabetes using patients' medical information from previous exams. Preprocess the dataset, train the model, analyze the results, and optimize the model to make predictions about the presence of diabetes.",
 		"es":"Usa el algoritmo de árboles de decisión para diagnosticar la diabetes utilizando la información médica de los pacientes obtenida de exámenes previos. Preprocesa el conjunto de datos, entrena el modelo, analiza los resultados y optimiza el modelo para hacer predicciones sobre la presencia de diabetes."
